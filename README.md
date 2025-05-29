@@ -70,5 +70,5 @@ seaborn
 ## Useful Links
 
 - 📂 [Kaggle Competition Page](https://www.kaggle.com/competitions/playground-series-s5e5)  
-- 📊 [Kaggle Dataset Download](https://www.kaggle.com/competitions/playground-series-s5e5//data)  
-- 💾 [File Storage (Google Drive, optional if used)](https://drive.google.com/drive/folders/1aL6xlvXNLezUMhxcw37T2Zb0i6fBJ0YH?usp=drive_link)  
+- 📊 [Kaggle Dataset Download](https://www.kaggle.com/competitions/playground-series-s5e5/data)  
+- 💾 [File Storage (Google Drive)](https://drive.google.com/drive/folders/1aL6xlvXNLezUMhxcw37T2Zb0i6fBJ0YH?usp=drive_link)
